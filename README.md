@@ -12,7 +12,6 @@ A scalable Ruby on Rails application for managing products, categories, and inve
 - Sidekiq (optional background jobs)
 - RSpec (testing)
 
----
 
 ## Features
 
